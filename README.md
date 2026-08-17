@@ -59,6 +59,7 @@ Computer Engineering Student | AI & Cloud Enthusiast | Software Developer
 An AI-powered platform developed as part of the **IBM SkillsBuild Internship** that automatically creates professional digital faculty profiles from CVs, research publications, and certificates.
 
 **Key Features:**
+
 - 📄 AI-powered CV & document analysis
 - ✨ Automated professional profile generation
 - 📚 Research publication analysis
@@ -74,7 +75,7 @@ An AI-powered platform developed as part of the **IBM SkillsBuild Internship** t
 
 ### 🛠️ Languages & Technologies
 
-#### Programming Languages
+#### 💻 Programming Languages
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
@@ -84,7 +85,7 @@ An AI-powered platform developed as part of the **IBM SkillsBuild Internship** t
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
-#### Web & Backend
+#### 🌐 Web & Backend
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
@@ -95,7 +96,7 @@ An AI-powered platform developed as part of the **IBM SkillsBuild Internship** t
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 </p>
 
-#### AI / ML / Data
+#### 🤖 AI / ML / Data
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
@@ -107,11 +108,11 @@ An AI-powered platform developed as part of the **IBM SkillsBuild Internship** t
 
 `Generative AI` `Agentic AI` `RAG` `LangChain` `ChromaDB` `IBM watsonx.ai` `Prompt Engineering` `LLMs` `Machine Learning`
 
-#### Cloud & Tools
+#### ☁️ Cloud & Tools
 
 `AWS` `IBM Cloud` `Linux` `Git` `GitHub` `VS Code` `Jupyter Notebook` `Streamlit`
 
-#### Databases
+#### 🗄️ Databases
 
 `MySQL` `MongoDB` `SQLite` `Oracle`
 
@@ -147,11 +148,23 @@ An AI-powered platform developed as part of the **IBM SkillsBuild Internship** t
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revati-2920&show_icons=true&locale=en" alt="Revati's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=revati-2920&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Revati's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revati-2920&show_icons=true&locale=en&layout=compact" alt="Revati's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revati-2920&layout=compact&theme=tokyonight&hide_border=true" alt="Revati's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=revati-2920&theme=tokyonight&hide_border=true" alt="Revati's GitHub Streak" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revati-2920&theme=tokyo-night&hide_border=true" alt="Revati's Contribution Graph" />
 </p>
 
 ---
