@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Revati-2920
 
-- 💬 Ask me about **Java , C , Python , HTML , CSS**
+- 💬 Ask me about **Java , C , Python , HTML , CSS , CPP**
 
 - 📫 How to reach me **revatibhosale2920@gmail.com**
 
 - 📄 Know about my experiences [Fresher](Fresher)
 
-- ⚡ Fun fact **I think I'm funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
